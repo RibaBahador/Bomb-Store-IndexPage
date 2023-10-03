@@ -1,0 +1,46 @@
+
+@media(max-width:1199.5px){
+    body{font-size: 14px;}
+    .searcharea form input {width: 82%;}
+    .singleslide{height: 190px;}
+}
+@media (max-width: 991.5px){
+    body{font-size: 16px;}
+    .searcharea form input {width: 83%;}
+    .singleslide .callta {top: 92px;right: 20px;}
+    .singleslide h2 {top: 45px;right: 20px;}
+    .singleslide{height: 145px;}
+    .logoarea2 h1{font-size: 1.2em;}
+    .logoarea2{text-align: center; padding: 15px;}
+    .logoarea2 img{float: none;}
+    .applink{font-size: 9px;}
+    .footbox form input{width: 67%;}
+}
+@media (max-width: 767.5px){
+    .searcharea ul li{color: #424242;}
+    .searcharea ul li:hover{color: white;}
+    .searcharea form input {width: 91%;}
+    .searcharea {text-align: center;margin: 15px 0px;}
+    .logoarea{text-align: center; padding: 15px;}
+    .logoarea img{float: none;}
+    .footercopy{text-align: center;}
+    .mainmenuarea{background-color: transparent; box-shadow: none; margin: 0px;}
+    .mainmenuarea .sidemobilev i{color: #424242; float: left; padding: 15px; font-size: 1.2em;}
+    .mainmenuarea .sidemobilev i:hover{color: #8bc34a; text-decoration: none;}
+
+}
+@media(max-width: 576.5px){
+    body{font-size: 12px;}
+    .toparea{text-align: center;}
+    .searcharea form input {width: 82%;}
+    .searcharea {text-align: center;margin: 15px 0px;}
+    .logoarea{text-align: center; padding: 15px;}
+    .logoarea img{float: none;}
+    .applink{font-size: 7px;}
+    
+}
+@media(max-width: 366.5px){
+    body{font-size: 10px;}
+    .contentbox a .fa-cart-shopping{font-size: 0.8em; border: 1px solid #8bc34a;}
+    .footbox form input{width: 60%;}
+}
